@@ -1,0 +1,9 @@
+version: '3'
+services:
+  web-todo:
+    build: .
+    volumes:
+      - ./web-todo:/opt/web-todo
+    ports:
+      - 3000:3000
+    command: sh -c 'cd web-todo && npm run dev'
