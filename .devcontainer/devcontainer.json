@@ -20,7 +20,9 @@
 	"extensions": [
 		"dsznajder.es7-react-js-snippets",
 		"foxundermoon.next-js",
-		"PulkitGangwar.nextjs-snippets"
+		"PulkitGangwar.nextjs-snippets",
+		"bradgashler.htmltagwrap",
+		"styled-components.vscode-styled-components"
 	]
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
